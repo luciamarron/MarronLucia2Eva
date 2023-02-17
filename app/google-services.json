@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "298469276304",
+    "project_id": "marronlucia2eva",
+    "storage_bucket": "marronlucia2eva.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:298469276304:android:4df9f3ff94b38d5e47f615",
+        "android_client_info": {
+          "package_name": "com.example.marronlucia2eva"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "298469276304-egb2eum0apbtj6n2uv06kjcqo89tksol.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD7IbXe586E-ytQz0gbl0ZbNP82PGMEWfs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "298469276304-egb2eum0apbtj6n2uv06kjcqo89tksol.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
